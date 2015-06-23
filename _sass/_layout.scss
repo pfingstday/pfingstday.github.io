@@ -1,6 +1,7 @@
 /**
  * Site header
  */
+
 .site-header {
     border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
@@ -12,6 +13,7 @@
 
 .site-title {
     font-size: 26px;
+    font-style: bold;
     line-height: 56px;
     letter-spacing: -1px;
     margin-bottom: 0;
@@ -234,3 +236,6 @@
         }
     }
 }
+
+
+
