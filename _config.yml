@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
+title:       Jekyll Test
 email:       your_email@example.com
 author:      John Otander
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "pfingstday.github.io" # the base hostname & protocol for your site
 
 image_path: https://dl.dropboxusercontent.com/u/2411938/github.io
 
