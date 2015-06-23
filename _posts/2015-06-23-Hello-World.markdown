@@ -5,7 +5,9 @@ date:   2015-06-23 13:24:30
 categories: news
 ---
 
-Test Snytax Highlighting:
+<img src="{{site.image_path}}/posts/tookii_test.jpg" />
+
+Test Snytax Highlighting
 
 {% highlight ruby %}
 def show
