@@ -6,14 +6,15 @@
   padding-top:    1rem;
   padding-bottom: 1rem;
   margin-bottom: 3rem;
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+
 }
 
 .masthead-title {
   margin-top: 0;
   margin-bottom: 0;
   color: #505050;
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: $highlight-font;
+        font-weight: 700;
 
   a {
     color: #505050;
