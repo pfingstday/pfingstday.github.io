@@ -4,7 +4,7 @@
  <title>pfingstday</title>
  <link href="http://getpoole.com/atom.xml" rel="self"/>
  <link href="http://getpoole.com/"/>
- <updated>2015-06-25T13:38:32+02:00</updated>
+ <updated>2015-06-25T13:57:20+02:00</updated>
  <id>http://getpoole.com</id>
  <author>
    <name>Mark Otto</name>
@@ -17,16 +17,17 @@
    <link href="http://getpoole.com/2015/06/25/eingabe-ausgabe/"/>
    <updated>2015-06-25T00:00:00+02:00</updated>
    <id>http://getpoole.com/2015/06/25/eingabe-ausgabe</id>
-   <content type="html">&lt;p&gt;Dokumentation des Kurses “Eingabe, Ausgabe. Grundlagen der prozessorientierten Gestaltung” mit Prof. Monika Hoinkis in Zusammenarbeit mit der Interface Werkstatt unter Leitung von Fabian Moron Zirfas&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/img/test.jpg&quot; /&gt; 
+Dokumentation des Kurses “Eingabe, Ausgabe. Grundlagen der prozessorientierten Gestaltung” mit Prof. Monika Hoinkis in Zusammenarbeit mit der Interface Werkstatt unter Leitung von Fabian Moron Zirfas&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;h2 id=&quot;pattern-procedure&quot;&gt;01 | Pattern Procedure&lt;/h2&gt;
+&lt;h2 id=&quot;pattern-procedure-h2&quot;&gt;01 | Pattern Procedure H2&lt;/h2&gt;
 &lt;p&gt;Ein Input kann auf verschiedene Weisen erfolgen, zum Beispiel auch durch eine simple, “handschriftlich” verfasste Zeichenanweisung, welche durch andere Personen analog ausgeführt wird.&lt;/p&gt;
 
 &lt;p&gt;In der ersten Teilaufgabe sollte eine Musteranweisung formuliert werden, welche von den anderen Kursmitgliedern, später auch von fremden Personen analog - mit Stift und Papaier - ausgeführt werden sollte. Dabei konnte die Anweisung sehr präzise ausfallen, aber auch Varianzen oder gar zufällige Parameter enthalten können.&lt;/p&gt;
 
-&lt;h3 id=&quot;analoger-input&quot;&gt;Analoger Input&lt;/h3&gt;
+&lt;h3 id=&quot;analoger-input-h3&quot;&gt;Analoger Input H3&lt;/h3&gt;
 &lt;p&gt;Die Grundüberlegung meiner Musteranweisung war es, eine Art Schaltkreis bzw. Platinenlayout zu generieren, welches aus parallel laufenden Geraden und orthogonalen Winkeln besteht, die durch Punkte verbunden sind. Dabei sollten sich die Linien nicht kreuzen oder berühren - “Tron” lässt grüßen.&lt;/p&gt;
 
 &lt;p&gt;Die meisten Ausführungen der anderen Kurteilnehmer entsprachen meiner Grundüberlegung, jedoch gab es einige interessante Ausnahmen:&lt;/p&gt;
@@ -95,7 +96,15 @@ Anschließend sollte die analoge Musteranweisung in Processing programmiert werd
    <link href="http://getpoole.com/2014/01/01/example-content/"/>
    <updated>2014-01-01T00:00:00+01:00</updated>
    <id>http://getpoole.com/2014/01/01/example-content</id>
-   <content type="html">&lt;div class=&quot;message&quot;&gt;
+   <content type="html">&lt;h1 id=&quot;this-is-a-h1&quot;&gt;This is a H1&lt;/h1&gt;
+
+&lt;h2 id=&quot;this-is-a-h2&quot;&gt;This is a H2&lt;/h2&gt;
+
+&lt;h3 id=&quot;this-is-a-h3&quot;&gt;This is a H3&lt;/h3&gt;
+
+&lt;h4 id=&quot;this-is-a-h4&quot;&gt;This is a H4&lt;/h4&gt;
+
+&lt;div class=&quot;message&quot;&gt;
   Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
 &lt;/div&gt;
 

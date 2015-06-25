@@ -3,16 +3,17 @@ layout: post
 title: Eingabe, Ausgabe
 ---
 
+<img src="/img/test.jpg" /> 
 Dokumentation des Kurses "Eingabe, Ausgabe. Grundlagen der prozessorientierten Gestaltung" mit Prof. Monika Hoinkis in Zusammenarbeit mit der Interface Werkstatt unter Leitung von Fabian Moron Zirfas
 
 -----
 
-##01 | Pattern Procedure
+##01 | Pattern Procedure H2
 Ein Input kann auf verschiedene Weisen erfolgen, zum Beispiel auch durch eine simple, "handschriftlich" verfasste Zeichenanweisung, welche durch andere Personen analog ausgeführt wird.
 
 In der ersten Teilaufgabe sollte eine Musteranweisung formuliert werden, welche von den anderen Kursmitgliedern, später auch von fremden Personen analog - mit Stift und Papaier - ausgeführt werden sollte. Dabei konnte die Anweisung sehr präzise ausfallen, aber auch Varianzen oder gar zufällige Parameter enthalten können.   
 
-###Analoger Input
+###Analoger Input H3
 Die Grundüberlegung meiner Musteranweisung war es, eine Art Schaltkreis bzw. Platinenlayout zu generieren, welches aus parallel laufenden Geraden und orthogonalen Winkeln besteht, die durch Punkte verbunden sind. Dabei sollten sich die Linien nicht kreuzen oder berühren - "Tron" lässt grüßen.
 
 Die meisten Ausführungen der anderen Kurteilnehmer entsprachen meiner Grundüberlegung, jedoch gab es einige interessante Ausnahmen: 

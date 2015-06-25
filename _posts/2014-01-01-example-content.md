@@ -3,6 +3,13 @@ layout: post
 title: Example content
 ---
 
+#This is a H1
+
+##This is a H2
+
+###This is a H3
+
+####This is a H4
 
 <div class="message">
   Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
