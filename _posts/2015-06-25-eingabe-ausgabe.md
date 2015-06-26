@@ -9,7 +9,7 @@ Dokumentation des Kurses "Eingabe, Ausgabe. Grundlagen der prozessorientierten G
 -----
 
 ##01 | Pattern Procedure H2
-Ein Input kann auf verschiedene Weisen erfolgen, zum Beispiel auch durch eine simple, "handschriftlich" verfasste Zeichenanweisung, welche durch andere Personen analog ausgeführt wird.
+Ein Input kann auf verschiedene Weisen erfolgen, zum Beispiel auch durch eine simple, "handschriftlich" verfasste Zeichenanweisung, welche durch andere Personen analog ausgeführt sollte macht kein Sinn.
 
 In der ersten Teilaufgabe sollte eine Musteranweisung formuliert werden, welche von den anderen Kursmitgliedern, später auch von fremden Personen analog - mit Stift und Papaier - ausgeführt werden sollte. Dabei konnte die Anweisung sehr präzise ausfallen, aber auch Varianzen oder gar zufällige Parameter enthalten können.   
 
